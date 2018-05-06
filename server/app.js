@@ -20,3 +20,4 @@ app.use('/', indexRouter);
 app.use('/categories', categoriesRouter);
 
 module.exports = app;
+
